@@ -1,0 +1,2 @@
+CS101,John Doe,Computer Science,85.50,john.doe@example.com
+CS102,Jane Smith,Information Technology,90.00,jane.smith@example.com
